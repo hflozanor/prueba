@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Sitemap - The Backyard</title>
+    <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+    <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="js/cufon-yui.js"></script>
+    <script type="text/javascript" src="js/Humanst521_BT_400.font.js"></script>
+    <script type="text/javascript" src="js/Humanst521_Lt_BT_400.font.js"></script>
+    <script type="text/javascript" src="js/cufon-replace.js"></script>
+    <script type="text/javascript" src="js/roundabout.js"></script>
+    <script type="text/javascript" src="js/roundabout_shapes.js"></script>
+    <script type="text/javascript" src="js/gallery_init.js"></script>
+    <!--[if lt IE 7]>
+  	<link rel="stylesheet" href="css/ie/ie6.css" type="text/css" media="all">  <![endif]-->
+    <!--[if lt IE 9]>
+  	<script type="text/javascript" src="js/html5.js"></script>    <script type="text/javascript" src="js/IE9.js"></script>  <![endif]-->
+    <style type="text/css">
+<!--
+.Estilo2 {
+	font-size: small;
+	font-weight: bold;
+}
+.Estilo8 {font-size: 15px; font-weight: bold; }
+-->
+    </style>
+  </head>
+  <body>
+    <!-- header --> 
+    <header>
+      <div class="container">
+        <h1 style="margin-top: -6px; height: 59px;"><a href="index.html"><img src="doc/Logo%20Final.png"
+              alt="" style="margin-top: -7px;"></a></h1>
+        <nav>
+          <ul>
+            <li><a href="index.html" class="Estilo8"> Inicio </a></li>
+            <li><a href="about.html" class="Estilo8"> Quienes Somos </a></li>
+            <li><a href="privacy.html" class="Estilo8">Caracteristicas</a></li>
+            <li><a href="gallery.html" class="Estilo8">Beneficios</a></li>
+            <li><a href="contacts.html" class="Estilo8">Contactenos</a></li>
+            <li><a href="sitemap.html" class="Estilo8">Situanos</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <!-- #gallery -->
+    <section id="gallery">
+      <div class="container">
+        <ul id="myRoundabout">
+          <li><img src="doc/img2.jpg" alt=""></li>
+          <li><img src="doc/img1.jpg" alt=""></li>
+          <li><img src="doc/Img3.jpg" alt=""></li>
+          <li><img src="doc/Img4.jpg" alt=""></li>
+          <li><img src="doc/Img5.jpg" alt=""></li>
+        </ul>
+      </div>
+    </section>
+    <!-- /#gallery -->
+    <div class="main-box">
+      <div class="container">
+        <div class="inside">
+          <h2>Nuestras <span>Sedes</span></h2>
+          <p></p>
+          <p></p>
+          <center> <iframe src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d3982.772026514289%212d-76.54894238562085%213d3.405692097521015%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x8e30a6aac21154fb%3A0x434ed79b212fd31a%212sCl.+5+%2359a-85%2C+Cali%2C+Valle+del+Cauca%215e0%213m2%211ses-419%212sco%214v1510534247752"
+              style="border:0" allowfullscreen="" width="300" height="300" frameborder="0"></iframe></center>
+        </div>
+      </div>
+    </div>
+    <!-- footer -->
+    <footer>
+      <div class="container">
+        <div class="wrapper">
+          <div class="fleft">Copyright ® 2017 - Wubi S.A. Desing by Felipe
+            Lozano</div>
+          <div class="fright"><a href="http://www.templatemonster.com/" target="_blank"
+              rel="nofollow">Website template</a> designed by
+            TemplateMonster.com&nbsp; &nbsp; |&nbsp; &nbsp; <a href="http://templates.com/product/3d-models/"
+              target="_blank" rel="nofollow">3D Models</a> provided by
+            Templates.com</div>
+        </div>
+      </div>
+    </footer>
+    <script type="text/javascript"> Cufon.now(); </script>
+  </body>
+</html>
